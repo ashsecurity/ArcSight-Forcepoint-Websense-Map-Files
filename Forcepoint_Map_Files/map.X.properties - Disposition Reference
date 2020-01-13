@@ -1,0 +1,67 @@
+event.deviceCustomNumber1,set.event.deviceCustomString4
+1024,Category permitted not set
+1025,Category blocked
+1026,Category permitted
+1027,Custom URL-category blocked
+1028,Custom URL-category permitted
+1029,Always blocked
+1030,Never blocked
+1031,Blocked by limited access filter
+1032,Blocked by keyword
+1033,Blocked - subscription level exceeded
+1034,Permitted - subscription level exceeded
+1035,Password override page
+1037,Permitted by password override
+1040,Permitted with Confirm option
+1041,Blocked - authentication required
+1042,Permitted - category not purchased
+1043,Permitted by quota
+1044,Permitted with keyword match
+1045,Blocked due to network bandwidth
+1046,Blocked due to protocol bandwidth
+1047,File type blocked
+1048,File type permitted
+1049,Protocol blocked
+1050,Protocol permitted
+1051,Protocol permitted not set
+1052,Permitted by limited access filter
+1053,Redirected by search filtering
+1054,Blocked with Confirm option
+1055,Blocked by quota
+1056,Permitted - protocol not purchased
+1057,Blocked by security override
+1058,Blocked by Hosted Anti-Virus Scanning - Inbound
+1059,Blocked by Hosted Anti-Virus Scanning - Outbound
+1060,Permitted by Policy Exception
+1061,Blocked by Policy Exception
+1062,Permitted by Tunneled Protocol Quota
+1063,Permitted by Tunneled Protocol Continue
+1064,Blocked by Web DLP
+1065,Permitted by Referer
+1066,File Blocked Over Max Scan Size
+1067,Cloud app permitted
+1068,Cloud app blocked
+1281,Category blocked real time
+1282,Category permitted real time
+1293,Permitted by password override real time
+1296,Permitted with confirm option real time
+1299,Permitted by quota real time
+1301,Blocked due to network bandwidth real time
+1302,Blocked due to protocol bandwidth real time
+1303,File type blocked real time
+1304,File type permitted real time
+1310,Blocked with confirm option real time
+1311,Blocked by quota real time
+1313,Blocked by security override real time
+1314,Blocked Inbound Cloud Antivirus
+1315,Blocked Outbound Cloud Antivirus
+1316,Permitted by Exception Real Time
+1317,Blocked by Exception Real Time
+1537,Permitted by scanning link analysis
+1538,Web 2.0 request permitted
+1539,Permitted after Web 2.0 scanning and link analysis
+1553,Blocked by scanning link analysis
+1554,Web 2.0 request blocked
+1555,Blocked after Web 2.0 scanning and link analysis
+1556,Zipbomb permitted Real Time
+1557,Zipbomb blocked Real Time

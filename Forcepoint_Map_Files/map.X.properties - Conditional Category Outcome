@@ -1,0 +1,3 @@
+event.deviceAction,set.event.categoryOutcome
+blocked,/Failure
+permitted,/Success

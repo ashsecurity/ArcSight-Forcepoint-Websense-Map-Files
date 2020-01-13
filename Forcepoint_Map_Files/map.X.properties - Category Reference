@@ -1,0 +1,168 @@
+event.deviceEventClassId,set.event.deviceEventCategory,set.event.oldFileName
+10,Abortion,-
+92,Abortion,Pro-Choice
+93,Abortion,Pro-Life
+1,Adult Material,-
+66,Adult Material,Adult Content
+95,Adult Material,Lingerie and Swimsuit
+65,Adult Material,Nudity
+67,Adult Material,Sex
+94,Adult Material,Sex Education
+11,Advocacy Groups,-
+2,Business and Economy,-
+68,Business and Economy,Financial Data and Services
+203,Business and Economy,Hosted Business Applications
+222,Collaboration - Office,-
+226,Collaboration - Office,Office - Apps
+225,Collaboration - Office,Office - Documents
+224,Collaboration - Office,Office - Drive
+223,Collaboration - Office,Office - Mail
+24,Drugs,-
+90,Drugs,Abused Drugs
+111,Drugs,Marijuana
+88,Drugs,Prescribed Medications
+89,Drugs,Nutrition
+3,Education,-
+69,Education,Cultural Institutions
+97,Education,Educational Institutions
+118,Education,Educational Materials
+121,Education,Reference Materials
+12,Entertainment,-
+70,Entertainment,Media File Download
+13,Gambling,-
+14,Games,-
+4,Government,-
+72,Government,Military
+73,Government,Political Organizations
+27,Health,-
+15,Illegal or Questionable,-
+9,Information Technology,-
+138,Information Technology,Computer Security
+80,Information Technology,Hacking
+75,Information Technology,Proxy Avoidance
+76,Information Technology,Search Engines and Portals
+227,Information Technology,Web Analytics
+228,Information Technology,Web and Email Marketing
+200,Information Technology,Web and Email Spam
+201,Information Technology,Web Collaboration
+78,Information Technology,Web Hosting
+28,Information Technology,Website Translation
+91,Internet Communication,-
+74,Internet Communication,General Email
+195,Internet Communication,Organizational Email
+196,Internet Communication,Text and Media Messaging
+79,Internet Communication,Web Chat
+26,Intolerance,-
+16,Job Search,-
+25,Militancy and Extremist,-
+146,Miscellaneous,-
+150,Miscellaneous,Content Delivery Networks
+151,Miscellaneous,Dynamic Content
+156,Miscellaneous,File Download Servers
+152,Miscellaneous,Network Errors
+148,Miscellaneous,Web Images
+147,Miscellaneous,Web Infrastructure
+149,Miscellaneous,Private IP Addresses
+153,Miscellaneous,Uncategorized
+5,News and Media,-
+81,News and Media,Alternative Journals
+6,Religion,-
+82,Religion,Non-Traditional Religions
+83,Religion,Traditional Religions
+17,Shopping,-
+101,Shopping,Internet Auctions
+102,Shopping,Real Estate
+122,Social Organizations,
+125,Social Organizations,Professional and Worker Organizations
+123,Social Organizations,Service and Philanthropic Organizations
+124,Social Organizations,Social and Affiliation Organizations
+7,Society and Lifestyles,-
+87,Society and Lifestyles,Alcohol and Tobacco
+204,Society and Lifestyles,Blogs and personal sites
+85,Society and Lifestyles,Gay or Lesbian or Bisexual Interest
+103,Society and Lifestyles,Hobbies
+86,Society and Lifestyles,Personals and Dating
+84,Society and Lifestyles,Restaurants and Dining
+117,Society and Lifestyles,Social Networking and Personal Sites
+8,Special Events,-
+18,Sports,-
+107,Sports,Sport Hunting and Gun Clubs
+19,Tasteless,-
+20,Travel,-
+21,Vehicles,-
+22,Violence,-
+23,Weapons,-
+116,Bandwidth,-
+209,Bandwidth,Educational Video
+210,Bandwidth,Entertainment Video
+114,Bandwidth,Internet Radio and TV
+108,Bandwidth,Internet Telephony
+115,Bandwidth,Peer-to-Peer File Sharing
+113,Bandwidth,Personal Network Storage and Backup
+109,Bandwidth,Streaming Media
+208,Bandwidth,Surveillance
+211,Bandwidth,Viral Video
+191,Extended Protection,-
+212,Extended Protection,Dynamic DNS
+192,Extended Protection,Elevated Exposure
+193,Extended Protection,Emerging Exploits
+221,Extended Protection,Newly Registered Websites
+194,Extended Protection,Suspicious Content
+110,Productivity,-
+29,Productivity,Advertisements
+99,Productivity,Application and Software Download
+98,Productivity,Instant Messaging
+112,Productivity,Message Boards and Forums
+96,Productivity,Online Brokerage and Trading
+100,Productivity,Pay-to-Surf
+1500,Social Web - Facebook,-
+1505,Social Web - Facebook,Facebook Posting
+1506,Social Web - Facebook,Facebook Commenting
+1507,Social Web - Facebook,Facebook Friends
+1508,Social Web - Facebook,Facebook Photo Upload
+1509,Social Web - Facebook,Facebook Mail
+1510,Social Web - Facebook,Facebook Events
+1513,Social Web - Facebook,Facebook Apps
+1514,Social Web - Facebook,Facebook Chat
+1515,Social Web - Facebook,Facebook Questions
+1517,Social Web - Facebook,Facebook Video Upload
+1518,Social Web - Facebook,Facebook Groups
+1524,Social Web - Facebook,Facebook Games
+1527,Social Web - LinkedIn,-
+1501,Social Web - LinkedIn,LinkedIn Updates
+1502,Social Web - LinkedIn,LinkedIn Mail
+1503,Social Web - LinkedIn,LinkedIn Connections
+1504,Social Web - LinkedIn,LinkedIn Jobs
+1526,Social Web - Twitter,-
+1519,Social Web - Twitter,Twitter Posting
+1520,Social Web - Twitter,Twitter Mail
+1521,Social Web - Twitter,Twitter Follow
+1525,Social Web - YouTube,-
+1511,Social Web - YouTube,YouTube Commenting
+1512,Social Web - YouTube,YouTube Video Upload
+1523,Social Web - YouTube,YouTube Sharing
+1528,Social Web Controls - Various,-
+1531,Social Web Controls - Various,Blog Commenting
+1530,Social Web Controls - Various,Blog Posting
+1529,Social Web Controls - Various,Classified Posting
+218,Security,Advanced Malware Command and Control
+219,Security,Advanced Malware Payloads
+172,Security,Botnets
+220,Security,Compromised Websites
+216,Security,Custom-Encrypted Uploads
+217,Security,Files Containing Passwords
+166,Security,Keyloggers
+205,Security,Malicious Embedded Link
+206,Security,Malicious Embedded Iframe
+128,Security,Malicious Websites
+214,Security,Mobile Malware
+164,Security,Phishing and Other Frauds
+213,Security,Potentially Exploited Documents
+167,Security,Potentially Unwanted Software
+154,Security,Spyware
+207,Security,Suspicious Embedded Link
+215,Security,Unauthorized Mobile Marketplaces
+126,Security,-
+202,Parked Domain,-
+1801,Non-HTTP,-
+1906,Custom Defined Category,-
